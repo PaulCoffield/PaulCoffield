@@ -2,7 +2,7 @@
 
 👀  I’m interested in all things related to User Experience, Accessibility & FrontEnd Development.
 
-🌱  I’m currently re-learning how to do a lot of things on the web, refreshing and upgrading my skills.
+🌱  I’m always looking for interesting ways to learn & practice new skills and to help others do the same.
 
 👋🏼 If you want to reach out and say hello, please [connect via LinkedIn](https://linkedin.com/in/paul-coffield)
 
